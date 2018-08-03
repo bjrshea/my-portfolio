@@ -1,9 +1,20 @@
 html, body {
-  background-color: grey;
+  background-image:linear-gradient(#DFD7CA, #CAD9DF);
 }
 
 h1, h3 {
   font-family: serif;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.header-footer {
+  margin: 10px;
+  border: 6px solid black;
+  padding: 4px;
 }
 
 .center {
@@ -12,9 +23,4 @@ h1, h3 {
 
 .center p {
   font-family: sans-serif;
-}
-
-img {
-  width: 200px;
-  height: auto;
 }
