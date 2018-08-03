@@ -1,9 +1,18 @@
 html, body {
-  background-image:linear-gradient(#DFD7CA, #CAD9DF);
+  background-image: linear-gradient(#DFD7CA, #CAD9DF, #70D1C5);
 }
 
 h1, h3 {
   font-family: serif;
+}
+
+h4 {
+  font-family: sans-serif;
+}
+
+p, li {
+  font-size: 12pt;
+  font-family: sans-serif;
 }
 
 img {
@@ -15,6 +24,10 @@ img {
   margin: 10px;
   border: 6px solid black;
   padding: 4px;
+}
+
+.header-footer h1 {
+  text-align: center;
 }
 
 .center {
