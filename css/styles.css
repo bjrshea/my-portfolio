@@ -4,6 +4,7 @@ html, body {
 
 h1, h3 {
   font-family: serif;
+  text-align: center;
 }
 
 h4 {
@@ -22,12 +23,8 @@ img {
 
 .header-footer {
   margin: 10px;
-  border: 6px solid black;
+  border: 3.5px solid black;
   padding: 4px;
-}
-
-.header-footer h1 {
-  text-align: center;
 }
 
 .center {
@@ -36,4 +33,23 @@ img {
 
 .center p {
   font-family: sans-serif;
+}
+
+.grey {
+  color: grey;
+}
+
+.float-interests {
+  width: 355px;
+  float: left;
+}
+
+.float-hobbies {
+  width: 355px;
+  float: left;
+}
+
+.float-skills {
+  width: 355px;
+  float: left;
 }
