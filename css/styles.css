@@ -1,5 +1,9 @@
 html, body {
-  background-image: linear-gradient(#B3E3CB, #D8DAD9);
+  background-color: white;
+}
+
+h1, h3 {
+  font-family: cursive;
 }
 
 .center {
@@ -9,4 +13,17 @@ html, body {
 img {
   width: 200px;
   height: auto;
+}
+
+.georgia {
+  font: georgia
+}
+
+.left {
+  width: 300px;
+  float: left;
+}
+
+.right {
+  float: right;
 }
