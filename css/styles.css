@@ -2,7 +2,7 @@ html, body {
   background-image: linear-gradient(#DFD7CA, #CAD9DF);
 }
 
-h1, h3 {
+h1, h2, h3 {
   font-family: serif;
   text-align: center;
 }
@@ -21,12 +21,6 @@ img {
   height: auto;
 }
 
-.header-footer {
-  margin: 10px;
-  border: 3.5px solid black;
-  padding: 4px;
-}
-
 .center {
   text-align: center;
 }
@@ -40,16 +34,16 @@ img {
 }
 
 .float-interests {
-  width: 355px;
+  width: 310px;
   float: left;
 }
 
 .float-hobbies {
-  width: 355px;
+  width: 310px;
   float: left;
 }
 
 .float-skills {
-  width: 355px;
+  width: 310px;
   float: left;
 }
