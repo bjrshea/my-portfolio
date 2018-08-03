@@ -1,29 +1,20 @@
 html, body {
-  background-color: white;
+  background-color: grey;
 }
 
 h1, h3 {
-  font-family: cursive;
+  font-family: serif;
 }
 
 .center {
   text-align: center;
 }
 
+.center p {
+  font-family: sans-serif;
+}
+
 img {
   width: 200px;
   height: auto;
-}
-
-.georgia {
-  font: georgia
-}
-
-.left {
-  width: 300px;
-  float: left;
-}
-
-.right {
-  float: right;
 }
