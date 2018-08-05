@@ -3,7 +3,7 @@ html, body {
 }
 
 h1, h2, h3 {
-  font-family: serif;
+  font-family: 'Amatic SC', cursive;
   text-align: center;
 }
 
@@ -18,7 +18,13 @@ p, li {
 
 img {
   width: 200px;
+  border-radius: 50%;
   height: auto;
+}
+
+.mountain {
+  background-image: url("../img/mountain-background.jpg");
+  background-size: 100%;
 }
 
 .center {
