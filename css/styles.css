@@ -1,5 +1,5 @@
 html, body {
-  background-image: linear-gradient(#DFD7CA, #CAD9DF);
+  background-image: linear-gradient(#ffffff, #0066cc);
 }
 
 h1, h2, h3 {
@@ -35,8 +35,8 @@ img {
   font-family: sans-serif;
 }
 
-.grey {
-  color: grey;
+.blue {
+  color: blue;
 }
 
 .float-interests {
