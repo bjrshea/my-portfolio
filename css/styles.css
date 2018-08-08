@@ -1,9 +1,9 @@
 html, body {
-  background-image: linear-gradient(#DFD7CA, #CAD9DF);
+  background-image: linear-gradient(#ffffff, #0066cc);
 }
 
 h1, h2, h3 {
-  font-family: serif;
+  font-family: 'Amatic SC', cursive;
   text-align: center;
 }
 
@@ -18,7 +18,17 @@ p, li {
 
 img {
   width: 200px;
+  border-radius: 50%;
   height: auto;
+}
+
+.mountain {
+  background-image: url("../img/mountain-background.jpg");
+  background-size: 100%;
+}
+
+.well h1 {
+  padding: 14px 16px;
 }
 
 .center {
@@ -29,8 +39,12 @@ img {
   font-family: sans-serif;
 }
 
-.grey {
-  color: grey;
+.blue {
+  color: blue;
+}
+
+.footer {
+  background-color: white
 }
 
 .float-interests {
