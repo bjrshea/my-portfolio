@@ -1,4 +1,4 @@
-[My Portfolio](https://bjrshea.github.io/my-portfolio/)
+# [My Portfolio](https://bjrshea.github.io/my-portfolio/)
 
 #### This is my first solo project at Epicodus as well as my first portfolio, 8/3/18.
 
